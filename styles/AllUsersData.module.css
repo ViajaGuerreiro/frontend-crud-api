@@ -1,0 +1,14 @@
+.allUsersData_container {
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.allUsersData_container h1 {
+    margin: 0.6em auto;
+}
+
+.allUsersData_container p {
+    margin: 0.5em auto;
+}

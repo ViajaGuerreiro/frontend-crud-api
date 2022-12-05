@@ -1,0 +1,22 @@
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    height: 14vh;
+    margin-top: 10px;
+    border-top: 3px solid #abc;
+    color: #fff;
+    bottom: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.footer span {
+    font-weight: bold;
+}
+
+.footer span:hover {
+    color: #abc;
+    cursor: pointer;
+}
